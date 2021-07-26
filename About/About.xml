@@ -6,6 +6,7 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <packageId>neceros.fastersmoothing</packageId>  
   <description>Triples everyone's base wall and floor smoothing speed. It's not as much as it sounds, because pawns get so many bonuses from synergies. You get more bonus from a high construction skill, for instance.</description>
